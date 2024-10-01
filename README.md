@@ -1,2 +1,2 @@
-# spotify_hits
-Modelo preditivo que antecipa a popularidade de músicas no Spotify
+# Qual o próximo hit do Spotify?
+&ensp; Neste projeto, foi desenvolvido um modelo preditivo para antecipar a popularidade de músicas no Spotify. Utilizando um conjunto de dados com mais de 100 mil faixas e características como atributos acústicos, metadados e popularidade, o objetivo foi criar um sistema capaz de prever o sucesso de uma música antes de seu lançamento.
